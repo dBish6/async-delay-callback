@@ -1,15 +1,19 @@
 {
   "name": "async-delay-callback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "David Bishop",
-  "description": ".",
+  "description": "A small utility for asynchronous delays within your code! It also includes an optional callback that you can utilize.",
   "license": "MIT",
   "keywords": [
-    "mobile",
-    "detect",
-    "detection",
-    "device",
-    "javascript"
+    "promise",
+    "promises",
+    "resolve",
+    "delay",
+    "wait",
+    "javascript",
+    "await",
+    "async",
+    "callback"
   ],
   "main": "./build/index.js",
   "types": "./build/index.js",
@@ -24,7 +28,7 @@
   "scripts": {
     "test": "jest",
     "build": "tsc",
-    "publish": "npm publish --access public"
+    "release": "npm publish --access public"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
