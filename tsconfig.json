@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["ES2015"],
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "skipLibCheck": true,
+    "declaration": true,
+    "outDir": "build",
+    // "sourceMap": true,
+
+    "isolatedModules": true,
+
+    "strict": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "build", "**/*.cjs", "**/*.test*"]
+}

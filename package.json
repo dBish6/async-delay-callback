@@ -1,0 +1,38 @@
+{
+  "name": "async-delay-callback",
+  "version": "1.0.0",
+  "author": "David Bishop",
+  "description": ".",
+  "license": "MIT",
+  "keywords": [
+    "mobile",
+    "detect",
+    "detection",
+    "device",
+    "javascript"
+  ],
+  "main": "./build/index.js",
+  "types": "./build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dBish6/async-delay-callback.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dBish6/async-delay-callback/issues"
+  },
+  "homepage": "https://github.com/dBish6/async-delay-callback#readme",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "publish": "npm publish --access public"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "build"
+  ]
+}
