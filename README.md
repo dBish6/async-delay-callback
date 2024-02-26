@@ -41,7 +41,7 @@ const delayExample = (children) => {
     })();
   }, []);
 
-  // Renders main content after resources/features or whatever your loading is loaded.
+  // Renders main content after resources/features or whatever you're loading is loaded.
   return loading.complete && <main>{children}</main>;
 };
 
