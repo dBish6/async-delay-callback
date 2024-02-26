@@ -52,7 +52,7 @@ export default delayExample;
 ```
 const { delay } = require("async-delay-callback");
 
-  delay(500, () => code being delayed.);
+delay(500, () => code being delayed.);
 ```
 
 ## Contributing
