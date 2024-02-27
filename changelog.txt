@@ -1,2 +1,5 @@
 v1.0.1
 - Description and keywords fix.
+
+v1.0.2
+- Adds the license.

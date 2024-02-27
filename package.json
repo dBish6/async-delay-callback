@@ -1,6 +1,6 @@
 {
   "name": "async-delay-callback",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "David Bishop",
   "description": "A small utility for asynchronous delays within your code! It also includes an optional callback that you can utilize.",
   "license": "MIT",
