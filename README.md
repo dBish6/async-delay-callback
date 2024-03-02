@@ -56,7 +56,7 @@ delay(500, () => code being delayed.);
 ```
 
 ## Contributing
-Contributions are welcome! Although I'd like to keep this package as small as possible sense it is meant to be a small utility.
+Contributions are welcome! Although I'd like to keep this package as small as possible since it is meant to be a small utility.
 
 ### To Get Started
 - Fork this repository.
