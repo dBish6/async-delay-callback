@@ -73,3 +73,8 @@ $ npm run dev
 
 ## License
 This project is licensed under the [MIT](https://github.com/dBish6/detect-if-mobile/blob/master/LICENSE) License.
+
+## Support Me
+If you find this package helpful consider buying me a coffee, your support helps me stay motivated!
+
+<a href="https://www.buymeacoffee.com/dBish" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
