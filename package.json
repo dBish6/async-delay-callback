@@ -1,6 +1,6 @@
 {
   "name": "async-delay-callback",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "David Bishop",
   "description": "A small utility for asynchronous delays within your code! It also includes an optional callback that you can utilize.",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "callback"
   ],
   "main": "./build/index.js",
-  "types": "./build/index.js",
+  "types": "./build/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dBish6/async-delay-callback.git"
